@@ -26,7 +26,7 @@ git config --global https.proxy http://{インターネット利用時に入力�
 cd C:\Users\{PCのユーザ名}\Desktop
 git clone https://github.com/ujrc-YutaTanaka/test.git
 ```
-デスクトップに"test"フォルダが作成され、中にコードが保存されているなら動作確認完了です。
+デスクトップに"test"フォルダが作成され、中にコードが保存されているなら動作確認完了です。"test"フォルダは削除しても問題ありません。
 
 ## 5. 拡張
 Visual Studio Codeを使用するとGitコマンドを使用することなく、GUIで操作可能になります。Gitを簡単に扱えるようになるため、おすすめです。
